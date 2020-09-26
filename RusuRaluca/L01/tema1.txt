@@ -1,0 +1,34 @@
+                      
+                      
+                      Aplicatia Stack Overflow este un site unde se gasesc diferite intrebari si raspunsuri , solutii pentru diferite probleme . Acest site 
+            poate fi accesat de diferiti utilizatori care pot fie sa puna intrebari si astepte solutii la problemele lor .
+            
+                      Pe aceasta aplicatie se pot gasi chiar si locuri de munca. Este o aplicatie destinata atat profesionistilor cat si amatorilor.
+                      
+                      In parte de sus este un buton "about" unde se pot gasi informatii despre aceasta aplicatie.
+                      
+                      Mai exista si un buton "for teams" unde se pot lucra in echipe in privat.
+                      
+                      Un buton "products" care ofera redirectionari catre mediul public al aplicatiei;
+                      
+                      
+                      Functionalitatea aplcatiei Stack Overflow :
+             - posibilitatea de a fii logat sau aceea de a putea sa iti faci un cont ;
+             
+             - intrebarile dar si raspunsurile pot primit voturi , dar acest lucru se poate doar pentru ce care sunt autentificati;
+             
+             - posibilitatea utilizatorului de a alege cel mai potrivit raspuns;
+             
+             - existenta filtrele , cu ajutorul lor se pot sorta intrebarile ;
+             
+             - posibilitatea angajatorilor de a recruta;
+             
+             - optiunea de cautare care poate fii dupa tag-uri sau cuvinte cheie;
+             
+             - sortarea rezultatelor dupa diferite criterii;
+             
+             - oricine poate sa caute o intrebare sau raspunsuri la ceea ce il intereseaza fara a fi autentificat;
+             
+             - existenta profilelor utilizatorilor de unde poti afla informatii despre acestia.
+             
+             - existenta unei sectiuni de stiri unde vedem toate articolele despre aplicatia StackOverflow.
