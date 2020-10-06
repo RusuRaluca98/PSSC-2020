@@ -1,0 +1,28 @@
+           Evenimentele din aplicatia Stack Overflow sunt urmatoarele : 
+    ->  inregistrare utilizator ;
+    ->  autentificare;
+    ->  intrebare adaugata;
+    ->  stergere intrebare;
+    ->  adaugare raspuns;
+    ->  editare raspuns;
+    ->  stergere raspuns;
+    ->  votare unui intrebare sau a unui raspuns;
+    ->  alegere raspuns bun;
+    ->  cautare intrebare dupa tag;
+    ->  cautarea unui job;
+    ->  primire mesaje;
+    ->  urmarire postare;
+    ->  distribuire pe anumite retele de socializare;
+    
+             
+            Contextele din aplicatia Stack Overflow sunt urmatoarele :
+    -> contextul utilizatorului;
+    -> contextul raspunsurilor;
+    -> contextul intrebarilor;
+    -> contextul tagurilor;
+    -> contextual jobului;
+    -> contextual voturilor;
+    ->contextual distribuirii; 
+
+  
+  
