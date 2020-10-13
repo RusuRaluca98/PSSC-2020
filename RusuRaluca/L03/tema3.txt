@@ -1,0 +1,36 @@
+Bounded context : Question context
+  Workflow : Add question;
+    - Triggered by:"Add question request received"
+	  - Input: "Question form" (Title, Body, Tags,Category,Topic)
+	  - Other inputs(question validation  via an ML)
+ 	  - Output:"New question accepted"
+	  - Side effects: User is being notified ;
+
+   Workflow : Post a new question
+      * Input : new question form
+      * Output : new question accepted event
+      
+      // step 1
+        Do validate question form
+            if question is invalid then
+                stop
+      // step 2
+          send confirmation about question
+      // step 3
+          return new question accepted event 
+          
+          Substep : validate new question form
+              - input : unvalidated new question form;
+              - output : validated new question form;
+              - dependencies : text validator via ML;
+              
+          - Validate the title content;
+          - Validate the tags content;
+          - Validate the body content;
+          
+          If all validations are passed then : return validate question form;
+          else return validation error.
+          
+          
+          
+    
