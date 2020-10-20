@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+<ItemGroup>
+  <PackageReference Include="CSharp.Choices" Version="1.1.0" />
+  <PackageReference Include="LanguageExt.Core" Version="3.5.20-beta" />
+  <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.8.0-preview-20200921-01" />
+  <PackageReference Include="NuGet.CommandLine" Version="5.7.0">
+    <PrivateAssets>all</PrivateAssets>
+    <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+  </PackageReference>
+  <PackageReference Include="OpenTracing" Version="0.12.1" />
+  <PackageReference Include="System.ComponentModel" Version="4.3.0" />
+  <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0-rc.2.20475.5" />
+ </ItemGroup>
+</Project>

@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.0": {
+      "Primitives.IO/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Primitives.IO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Primitives.IO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Primitives.IO/1.0.0": {
+      "type": "project",
+      "path": "../Primitives.IO/Primitives.IO.csproj",
+      "msbuildProject": "../Primitives.IO/Primitives.IO.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.0": [
+      "Primitives.IO >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Raluca\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Raluca\\Downloads\\PSSC-2020-master_Tomole\\PSSC-2020-master\\TomoleCristina\\L04\\Question.Domain\\Question.Domain.csproj",
+      "projectName": "Question.Domain",
+      "projectPath": "C:\\Users\\Raluca\\Downloads\\PSSC-2020-master_Tomole\\PSSC-2020-master\\TomoleCristina\\L04\\Question.Domain\\Question.Domain.csproj",
+      "packagesPath": "C:\\Users\\Raluca\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Raluca\\Downloads\\PSSC-2020-master_Tomole\\PSSC-2020-master\\TomoleCristina\\L04\\Question.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Raluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "projectReferences": {
+            "C:\\Users\\Raluca\\Downloads\\PSSC-2020-master_Tomole\\PSSC-2020-master\\TomoleCristina\\L04\\Primitives.IO\\Primitives.IO.csproj": {
+              "projectPath": "C:\\Users\\Raluca\\Downloads\\PSSC-2020-master_Tomole\\PSSC-2020-master\\TomoleCristina\\L04\\Primitives.IO\\Primitives.IO.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netstandard2.0": {}
+    }
+  }
+}

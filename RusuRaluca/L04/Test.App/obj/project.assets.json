@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Primitives.IO/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Primitives.IO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Primitives.IO.dll": {}
+        }
+      },
+      "Profile.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Primitives.IO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Profile.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Profile.Domain.dll": {}
+        }
+      },
+      "Question.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Primitives.IO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Question.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Question.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Primitives.IO/1.0.0": {
+      "type": "project",
+      "path": "../Primitives.IO/Primitives.IO.csproj",
+      "msbuildProject": "../Primitives.IO/Primitives.IO.csproj"
+    },
+    "Profile.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Profile.Domain/Profile.Domain.csproj",
+      "msbuildProject": "../Profile.Domain/Profile.Domain.csproj"
+    },
+    "Question.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Question.Domain/Question.Domain.csproj",
+      "msbuildProject": "../Question.Domain/Question.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Profile.Domain >= 1.0.0",
+      "Question.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Raluca\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Raluca\\Downloads\\PSSC-2020-master_Tomole\\PSSC-2020-master\\TomoleCristina\\L04\\Test.App\\Test.App.csproj",
+      "projectName": "Test.App",
+      "projectPath": "C:\\Users\\Raluca\\Downloads\\PSSC-2020-master_Tomole\\PSSC-2020-master\\TomoleCristina\\L04\\Test.App\\Test.App.csproj",
+      "packagesPath": "C:\\Users\\Raluca\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Raluca\\Downloads\\PSSC-2020-master_Tomole\\PSSC-2020-master\\TomoleCristina\\L04\\Test.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Raluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Raluca\\Downloads\\PSSC-2020-master_Tomole\\PSSC-2020-master\\TomoleCristina\\L04\\Profile.Domain\\Profile.Domain.csproj": {
+              "projectPath": "C:\\Users\\Raluca\\Downloads\\PSSC-2020-master_Tomole\\PSSC-2020-master\\TomoleCristina\\L04\\Profile.Domain\\Profile.Domain.csproj"
+            },
+            "C:\\Users\\Raluca\\Downloads\\PSSC-2020-master_Tomole\\PSSC-2020-master\\TomoleCristina\\L04\\Question.Domain\\Question.Domain.csproj": {
+              "projectPath": "C:\\Users\\Raluca\\Downloads\\PSSC-2020-master_Tomole\\PSSC-2020-master\\TomoleCristina\\L04\\Question.Domain\\Question.Domain.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {}
+    }
+  }
+}
