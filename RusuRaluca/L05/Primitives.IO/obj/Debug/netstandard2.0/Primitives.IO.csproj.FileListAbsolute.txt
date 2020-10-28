@@ -1,0 +1,69 @@
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.deps.json
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.dll
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.pdb
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csprojAssemblyReference.cache
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfoInputs.cache
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfo.cs
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.dll
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.pdb
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.dotnet-codegen.rsp
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\Adapter.XVMdVQMv.generated.cs
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\EffectAttribute.iZse5T4L.generated.cs
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\MockEffectAttribute.QjNfP161.generated.cs
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\IInterpreter.wk9kYh-R.generated.cs
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\InputGenerator.xrDTOF3U.generated.cs
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\LiveInterpreterAsync.M4M7O6ei.generated.cs
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\EffectOverride.t6m71Pwv.generated.cs
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\IExecutionContext.j1EB6NHR.generated.cs
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\LiveExecutionContext.wApQq1GI.generated.cs
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\MockContext.-3pKstTb.generated.cs
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\Port.6EnyqFyo.generated.cs
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\PortExt.3mTl0Fcp.generated.cs
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.dotnet-codegen.GeneratedFileList.txt
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\PSSC\L04\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.CoreCompileInputs.cache
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.deps.json
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.dll
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.pdb
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csprojAssemblyReference.cache
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.dotnet-codegen.rsp
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\Adapter.XVMdVQMv.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\EffectAttribute.iZse5T4L.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\MockEffectAttribute.QjNfP161.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\IInterpreter.wk9kYh-R.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\InputGenerator.xrDTOF3U.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\LiveInterpreterAsync.M4M7O6ei.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\EffectOverride.t6m71Pwv.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\IExecutionContext.j1EB6NHR.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\LiveExecutionContext.wApQq1GI.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\MockContext.-3pKstTb.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\Port.6EnyqFyo.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\PortExt.3mTl0Fcp.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.dotnet-codegen.GeneratedFileList.txt
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfoInputs.cache
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfo.cs
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.CoreCompileInputs.cache
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.dll
+D:\FACULTATE\ANUL 4\PSSC\L04_tema5Eva\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.pdb
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.deps.json
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.dll
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.pdb
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csprojAssemblyReference.cache
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.dotnet-codegen.rsp
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\Adapter.XVMdVQMv.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\EffectAttribute.iZse5T4L.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\MockEffectAttribute.QjNfP161.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\IInterpreter.wk9kYh-R.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\InputGenerator.xrDTOF3U.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\LiveInterpreterAsync.M4M7O6ei.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\EffectOverride.t6m71Pwv.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\IExecutionContext.j1EB6NHR.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\LiveExecutionContext.wApQq1GI.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\MockContext.-3pKstTb.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\Port.6EnyqFyo.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\PortExt.3mTl0Fcp.generated.cs
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.dotnet-codegen.GeneratedFileList.txt
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfoInputs.cache
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfo.cs
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.CoreCompileInputs.cache
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.dll
+D:\FACULTATE\ANUL 4\PSSC\LO5\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.pdb
