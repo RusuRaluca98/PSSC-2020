@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "dzduJ+pTUs3Dv3xAWnnnNYWkpuX++gLU+emIydP3RAutbQ63EABXz/10GtuangI8Z4H9K/c+tQ6Z2ZCk18P7pQ==",
+  "success": true,
+  "projectFilePath": "D:\\FACULTATE\\ANUL 4\\PSSC\\stackunderflow-master_2020\\stackunderflow-master\\GrainImplementation\\GrainImplementation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raluca\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\microsoft.orleans.codegenerator.msbuild\\3.3.0\\microsoft.orleans.codegenerator.msbuild.3.3.0.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\microsoft.orleans.core.abstractions\\3.3.0\\microsoft.orleans.core.abstractions.3.3.0.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
