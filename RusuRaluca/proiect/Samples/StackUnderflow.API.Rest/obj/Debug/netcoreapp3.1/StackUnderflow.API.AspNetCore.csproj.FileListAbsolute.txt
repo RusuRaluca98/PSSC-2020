@@ -1,0 +1,5 @@
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\Samples\StackUnderflow.API.Rest\obj\Debug\netcoreapp3.1\StackUnderflow.API.AspNetCore.csprojAssemblyReference.cache
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\Samples\StackUnderflow.API.Rest\obj\Debug\netcoreapp3.1\StackUnderflow.API.AspNetCore.AssemblyInfoInputs.cache
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\Samples\StackUnderflow.API.Rest\obj\Debug\netcoreapp3.1\StackUnderflow.API.AspNetCore.AssemblyInfo.cs
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\Samples\StackUnderflow.API.Rest\obj\Debug\netcoreapp3.1\StackUnderflow.API.AspNetCore.csproj.CoreCompileInputs.cache
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\Samples\StackUnderflow.API.Rest\obj\Debug\netcoreapp3.1\StackUnderflow.API.AspNetCore.MvcApplicationPartsAssemblyInfo.cache
