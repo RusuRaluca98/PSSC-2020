@@ -1,0 +1,11 @@
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\GrainInterfaces\bin\Debug\netstandard2.0\GrainInterfaces.deps.json
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\GrainInterfaces\bin\Debug\netstandard2.0\GrainInterfaces.dll
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\GrainInterfaces\bin\Debug\netstandard2.0\GrainInterfaces.pdb
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.csprojAssemblyReference.cache
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.orleans.g.args.txt
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.orleans.g.cs
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.AssemblyInfoInputs.cache
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.AssemblyInfo.cs
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.csproj.CoreCompileInputs.cache
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.dll
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.pdb
