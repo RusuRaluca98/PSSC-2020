@@ -1,0 +1,9 @@
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\Primitives\Access.Primitives.IO\bin\Debug\netstandard2.0\Access.Primitives.IO.deps.json
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\Primitives\Access.Primitives.IO\bin\Debug\netstandard2.0\Access.Primitives.IO.dll
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\Primitives\Access.Primitives.IO\bin\Debug\netstandard2.0\Access.Primitives.IO.pdb
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\Primitives\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.csprojAssemblyReference.cache
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\Primitives\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.AssemblyInfoInputs.cache
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\Primitives\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.AssemblyInfo.cs
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\Primitives\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.csproj.CoreCompileInputs.cache
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\Primitives\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.dll
+D:\FACULTATE\ANUL 4\PSSC\PSSC-2020-master_eu\PSSC-2020-master\RusuRaluca\Proiect\Primitives\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.pdb
